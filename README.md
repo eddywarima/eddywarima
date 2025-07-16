@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 ---
 
 🌟 **Current Focus**
-- Deepening my understanding of **backend development** with PHP and Python
+- Deepening my understanding of **backend development** with PHP , Python and Java
 - Building full-stack projects to practice my skills
 - Learning modern **JavaScript frameworks**
 
