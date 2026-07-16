@@ -25,14 +25,7 @@ Welcome to my GitHub profile!
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
----
 
-🌟 **Current Focus**
-- Deepening my understanding of **backend development** with PHP , Python and Java
-- Building full-stack projects to practice my skills
-- Learning modern **JavaScript frameworks**
-
----
 
 
 
